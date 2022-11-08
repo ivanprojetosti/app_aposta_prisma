@@ -1,0 +1,7 @@
+{
+  "name": "app_aposta_prisma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
